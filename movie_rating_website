@@ -1,0 +1,5 @@
+In this project, i created a data structure to use in a movie rating website. my data structure 
+provide storing and sorting features for the website. There will be stored 3 variables (name, rate, 
+and year) for each movie, and they will be kept in a sorted manner according to these variables. To 
+accomplish this, i designed a linked list like data structure with three pointers which points next 
+node in terms of each variable.
